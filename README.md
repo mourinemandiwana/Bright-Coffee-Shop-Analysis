@@ -1,9 +1,11 @@
-# Bright-Coffee-Shop-Analysis
+Bright-Coffee-Shop-Analysis
 To add later
 
 - Objective
-    -Hello
-  -fhfhfdk
-- Problem statement
+    - Hello
+     - fhfhfdk
+     - 
+- Problem statemen
+      -Rina thaidzo khul
 - Purpose
 - Summary
