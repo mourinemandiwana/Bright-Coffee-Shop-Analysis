@@ -5,11 +5,11 @@ As a Junior Data Analyst, the objective was to extract meaningful insights from 
 
 - Objective
   
- - The analysis aimed to answer the following key business questions:
- - Which products generate the most revenue
- - What time of day the store performs best
- - Sales trends across products and time intervals
- - How to improve overall sales performance through data-driven recommendations
+    - The analysis aimed to answer the following key business questions:
+    - Which products generate the most revenue
+    - What time of day the store performs best
+    - Sales trends across products and time intervals
+    - How to improve overall sales performance through data-driven recommendations
       
 - Tools and Technologies
       -Databricks – Data cleaning, transformation, and SQL analysis
